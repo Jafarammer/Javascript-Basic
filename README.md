@@ -1,2 +1,2 @@
-# tugas-bootcamp
+# Javascript Basic
 Folder untuk tugas bootcamp
